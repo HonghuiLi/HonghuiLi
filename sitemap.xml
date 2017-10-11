@@ -68,24 +68,6 @@
     
     <url>
     
-      <loc>https://honghuili.github.io/HonghuiLi/post/widgets/</loc>
-      <lastmod>2016-04-19T00:00:00+08:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://honghuili.github.io/HonghuiLi/post/managing-content/</loc>
-      <lastmod>2016-04-18T00:00:00+08:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>https://honghuili.github.io/HonghuiLi/post/writing-markdown-latex/</loc>
       <lastmod>2016-04-17T00:00:00+08:00</lastmod>
     </url>
@@ -97,15 +79,6 @@
     
       <loc>https://honghuili.github.io/HonghuiLi/publication/person-re-identification/</loc>
       <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://honghuili.github.io/HonghuiLi/post/migrate-from-jekyll/</loc>
-      <lastmod>2014-03-10T00:00:00+08:00</lastmod>
     </url>
     
   
@@ -163,26 +136,6 @@
     
       <loc>https://honghuili.github.io/HonghuiLi/</loc>
       <lastmod>2016-04-20T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://honghuili.github.io/HonghuiLi/tags/hugo/</loc>
-      <lastmod>2016-04-19T00:00:00+08:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://honghuili.github.io/HonghuiLi/tags/jekyll/</loc>
-      <lastmod>2014-03-10T00:00:00+08:00</lastmod>
       <priority>0</priority>
     </url>
     
