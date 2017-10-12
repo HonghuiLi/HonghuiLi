@@ -1,9 +1,10 @@
-# A Personal Website
+# [A Personal Website](https://honghuili.github.io/HonghuiLi/)
 
 ## TODO
 
-1. Write  to master branch
-2. Deploy to gh-pages branch: ./commit-gh-pages-files.sh
+1. Write preview with: hugo server --watch &
+2. Submit to master branch
+3. Deploy to gh-pages branch: ./commit-gh-pages-files.sh
 
 ## Themes
 
